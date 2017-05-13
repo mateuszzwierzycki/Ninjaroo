@@ -1,5 +1,5 @@
 # Ninjaroo
-A Kangaroo solver running in a background thread.
+The Kangaroo solver running in a background thread.
 Sacrifices the interactivity of the original solver for the sake of running bigger models without freezing the UI thread.
 
 # Dependencies
