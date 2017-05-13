@@ -1,0 +1,2 @@
+# Ninjaroo
+Threaded Kangaroo solver
